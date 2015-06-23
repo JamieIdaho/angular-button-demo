@@ -1,3 +1,16 @@
 .container {
   width: 400px;
-  margin: 50px auto; }
+  margin: 100px auto; }
+
+button {
+  width: 100%;
+  outline: none;
+  border-radius: 5px;
+  height: 60px; }
+
+.removeButton {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: #FC434E;
+  margin-left: 150px; }

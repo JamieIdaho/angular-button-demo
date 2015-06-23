@@ -27,6 +27,10 @@
 
     };
 
+    $scope.remove = function(x) {
+      $scope.allClicks = [];
+    };
+
   }]);
 
 }());
