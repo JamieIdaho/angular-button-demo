@@ -1,9 +1,11 @@
 ## Welcome to My Repo
 
-> I am your Readme.md file, you should probably update me.
+This is our first Angular assignment! A simple button that counts the number of clicks. Built using Angular's controller and directives.
 
 
 ## Usage
+
+To clone this app, run npm install and bower install before use.
 
 This template contains some simple `gulp` tasks. They are as follows:
 
